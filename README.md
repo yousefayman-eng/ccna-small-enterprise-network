@@ -7,6 +7,10 @@ below and as a ready-to-paste file in [`configs/`](configs/).
 
 ![Topology diagram](topology/topology.png)
 
+![Topology diagram (Packet Tracer-style)](topology/packet-tracer-style-topology.jpg)
+
+*Topology diagram in a Packet Tracer-style visual format. This is not a captured lab screenshot.*
+
 *Topology diagram of the final design. Interface, VLAN and subnet labels match the
 configurations in this repository exactly.*
 
